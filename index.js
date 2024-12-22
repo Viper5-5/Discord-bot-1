@@ -140,4 +140,3 @@ client.on('messageCreate', (message) => {
 		}
 });
 
-client.login("MTMwNDIxMDA4ODg2ODcxMjQ5OA.G1pQ-g.lmXbfobXkZ-rjKNJfs3qafzq715aC_wINDRGaM")
