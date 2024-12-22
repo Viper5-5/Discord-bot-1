@@ -21,7 +21,6 @@ const client = new Client({
 
 
 
-
 client.on('messageCreate', (message) => {
 		if (message.content === 'bunny'){
 			 _pictures = [
